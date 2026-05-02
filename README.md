@@ -7,7 +7,7 @@ construction, portfolio construction & risk management, short selling,
 trading and execution, and the future of the asset-management industry.
 
 > **Author.** Arturo Favara
-> [LinkedIn](https://www.linkedin.com/in/arturofavara)
+> [LinkedIn](https://www.linkedin.com/in/arturo-favara)
 >
 > **Course.** 15.439 Quantitative Investment Management
 > MIT, Spring 2026.
